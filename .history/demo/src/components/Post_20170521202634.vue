@@ -1,0 +1,54 @@
+<template>
+  <div class="post">
+
+    <h3>Articles</h3>
+
+    <ul class="collection">
+      <transition-group name="list" tag="p">
+        <li class="list-item collection-item" :key="post.id" v-for="post in posts">{{ post.title }} <button @click="remove(post)">X</button></li>
+      </transition-group>
+    </ul>
+
+
+    <form>
+
+
+    </form>
+
+  </div>
+</template>
+
+<script>
+  export default {
+    name: 'post',
+    data() {
+      return {
+        posts: [],
+      }
+    },
+    created() {
+      this.$http.get('http://localhost:3000/').then(response => {
+        this.posts = response.body;
+      });
+    },
+    methods: {
+      send() {
+        this.posts.push({})
+      },
+      remove(post) {
+        let pos = this.posts.findIndex((elt) => elt.id == post.id);
+        this.posts.splice(pos, 1)
+      }
+    },
+  }
+</script>
+
+<style>
+  .list-enter-active, .list-leave-active {
+    transition: all 1s;
+  }
+  .list-enter, .list-leave-to /* .list-leave-active for <2.1.8 */ {
+    opacity: 0;
+    transform: translateX(5px);
+  }
+</style>

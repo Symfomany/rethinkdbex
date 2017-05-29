@@ -1,0 +1,182 @@
+2017-05-20T08:29:42.446086782 0.100028s notice: Recursively removing directory /home/boyer/Bureau/events/rethinkdb_data/tmp
+2017-05-20T08:29:42.496120465 0.150062s notice: Initializing directory /home/boyer/Bureau/events/rethinkdb_data
+2017-05-20T08:29:42.496239897 0.150179s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/boyer/Bureau/events/rethinkdb_data' did not already exist or is empty.)
+2017-05-20T08:29:42.496260073 0.150199s notice: Running rethinkdb 2.3.5~0trusty (GCC 4.8.2)...
+2017-05-20T08:29:42.515584610 0.169526s notice: Running on Linux 3.19.0-25-generic x86_64
+2017-05-20T08:29:42.515649804 0.169589s notice: Loading data from directory /home/boyer/Bureau/events/rethinkdb_data
+2017-05-20T08:29:42.843179950 0.497121s info: Automatically using cache size of 1250 MB
+2017-05-20T08:29:42.851257822 0.505198s notice: Listening for intracluster connections on port 29015
+2017-05-20T08:29:42.856304220 0.510244s notice: Listening for client driver connections on port 28015
+2017-05-20T08:29:42.857823959 0.511764s notice: Listening for administrative HTTP connections on port 8080
+2017-05-20T08:29:42.857828531 0.511768s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-20T08:29:42.857833282 0.511773s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-20T08:29:42.857837431 0.511777s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-20T08:29:42.857841681 0.511781s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-05-20T08:29:42.857845846 0.511785s notice: Server ready, "boyer_ThinkCentre_M92p_akf" 489a494a-611a-43b7-b2b9-ace685d8046d
+2017-05-20T08:30:02.808426093 20.462366s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:30:24.808680589 42.462621s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:30:46.808267732 64.462207s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:31:08.808199494 86.462139s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:31:30.808408036 108.462348s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:31:36.019394469 113.673334s info: Table de874ceb-67d8-4bf6-9f09-ec1377356826: Starting a new Raft election for term 1.
+2017-05-20T08:31:36.020133053 113.674073s info: Table de874ceb-67d8-4bf6-9f09-ec1377356826: Added replica on this server.
+2017-05-20T08:31:36.076579757 113.730520s info: Table de874ceb-67d8-4bf6-9f09-ec1377356826: This server is Raft leader for term 1. Latest log index is 0.
+2017-05-20T08:31:52.812270148 130.466210s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:32:14.808107976 152.462048s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:32:36.807950328 174.461890s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:32:58.808399866 196.462340s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:33:00.973844909 198.627785s info: Table eeee06a9-7f1e-4f71-981f-b2b74c751130: Starting a new Raft election for term 1.
+2017-05-20T08:33:00.974081169 198.628021s info: Table eeee06a9-7f1e-4f71-981f-b2b74c751130: Added replica on this server.
+2017-05-20T08:33:01.030512448 198.684452s info: Table eeee06a9-7f1e-4f71-981f-b2b74c751130: This server is Raft leader for term 1. Latest log index is 0.
+2017-05-20T08:33:20.810682738 218.464623s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:33:42.809073786 240.463013s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:34:04.808863635 262.462804s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:34:26.809217422 284.463157s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:34:48.808920866 306.462861s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:35:10.811402350 328.465342s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:35:32.808528605 350.462469s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:35:54.808652803 372.462593s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:36:16.808636615 394.462577s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:36:38.808334717 416.462275s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:37:00.809232728 438.463172s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:37:22.809503796 460.463443s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:37:44.808504862 482.462445s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:38:06.811486713 504.465427s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:38:28.810463642 526.464403s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:38:50.808136675 548.462076s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:39:12.811111643 570.465051s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:39:34.808055206 592.461995s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:39:56.808091533 614.462031s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:40:18.808238399 636.462178s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:40:40.808362202 658.462302s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:41:02.808377384 680.462317s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:41:24.808420262 702.462360s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:41:46.809080411 724.463020s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:42:08.809104116 746.463044s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:42:30.810486776 768.464427s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:42:52.868113855 790.522054s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:43:14.809224936 812.463165s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:43:36.809587566 834.463527s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:43:58.810220679 856.464160s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:44:20.808294108 878.462234s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:44:42.808479745 900.462419s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:45:04.808079408 922.462019s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:45:26.808355929 944.462296s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:45:48.808219843 966.462160s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:46:10.808245388 988.462185s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:46:32.808120781 1010.462060s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:46:54.809876569 1032.463816s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:47:16.807878535 1054.461819s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:47:38.808467841 1076.462408s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:48:00.808313179 1098.462253s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:48:22.809362059 1120.463302s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:48:44.808537665 1142.462477s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:49:06.808135678 1164.462075s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:49:28.807927055 1186.461867s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:49:50.808860772 1208.462800s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:50:12.807963245 1230.461903s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:50:34.807984359 1252.461924s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:50:56.809807944 1274.463748s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:51:18.811234432 1296.465175s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:51:40.808176234 1318.462116s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:52:02.809648289 1340.463588s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:52:24.808603151 1362.462543s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:52:46.808072649 1384.462012s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:53:08.808093152 1406.462033s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:53:30.808119021 1428.462059s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:53:52.814036086 1450.467976s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:54:14.808001353 1472.461941s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:54:36.807962417 1494.461902s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:54:58.807891904 1516.461832s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:55:20.808112228 1538.462052s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:55:42.810345207 1560.464285s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:56:04.808050244 1582.461990s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:56:26.808382761 1604.462322s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:56:48.809043161 1626.462983s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:57:10.808437294 1648.462377s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:57:32.807956226 1670.461896s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:57:54.808149578 1692.462089s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:58:16.807903770 1714.461843s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:58:38.808824439 1736.462764s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:59:00.809968567 1758.463908s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:59:22.808029455 1780.461970s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T08:59:44.808373944 1802.462314s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-20T09:00:06.807909466 1824.461849s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-05-21T12:40:41.796084724 0.125528s notice: Running rethinkdb 2.3.5~0trusty (GCC 4.8.2)...
+2017-05-21T12:40:41.846296460 0.175739s notice: Running on Linux 3.19.0-25-generic x86_64
+2017-05-21T12:40:41.846404021 0.175844s notice: Loading data from directory /home/boyer/Bureau/events/rethinkdb_data
+2017-05-21T12:40:42.060914302 0.390356s info: Automatically using cache size of 1443 MB
+2017-05-21T12:40:42.062144276 0.391584s notice: Listening for intracluster connections on port 29015
+2017-05-21T12:40:42.350070652 0.679511s notice: Listening for client driver connections on port 28015
+2017-05-21T12:40:42.350256508 0.679697s notice: Listening for administrative HTTP connections on port 8080
+2017-05-21T12:40:42.350276449 0.679716s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-21T12:40:42.350280638 0.679720s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-21T12:40:42.350283305 0.679723s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-21T12:40:42.350285715 0.679725s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-05-21T12:40:42.350288163 0.679728s notice: Server ready, "boyer_ThinkCentre_M92p_akf" 489a494a-611a-43b7-b2b9-ace685d8046d
+2017-05-21T12:40:43.612327570 1.941768s info: Table de874ceb-67d8-4bf6-9f09-ec1377356826: Starting a new Raft election for term 2.
+2017-05-21T12:40:43.683283871 2.012724s info: Table de874ceb-67d8-4bf6-9f09-ec1377356826: This server is Raft leader for term 2. Latest log index is 3.
+2017-05-21T12:40:43.952775536 2.282216s info: Table eeee06a9-7f1e-4f71-981f-b2b74c751130: Starting a new Raft election for term 2.
+2017-05-21T12:40:44.033265059 2.362705s info: Table eeee06a9-7f1e-4f71-981f-b2b74c751130: This server is Raft leader for term 2. Latest log index is 3.
+2017-05-21T13:19:16.864690379 0.072212s notice: Running rethinkdb 2.3.5~0trusty (GCC 4.8.2)...
+2017-05-21T13:19:16.867909684 0.075432s notice: Running on Linux 3.19.0-25-generic x86_64
+2017-05-21T13:19:16.868007046 0.075526s notice: Loading data from directory /home/boyer/Bureau/events/rethinkdb_data
+2017-05-21T13:19:16.961529549 0.169049s info: Automatically using cache size of 1149 MB
+2017-05-21T13:19:16.962262778 0.169782s notice: Listening for intracluster connections on port 29015
+2017-05-21T13:19:17.017043766 0.224563s notice: Listening for client driver connections on port 28015
+2017-05-21T13:19:17.017328558 0.224847s notice: Listening for administrative HTTP connections on port 8080
+2017-05-21T13:19:17.017330922 0.224850s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-21T13:19:17.017332636 0.224851s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-21T13:19:17.017334275 0.224853s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-21T13:19:17.017336718 0.224856s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-05-21T13:19:17.017338547 0.224857s notice: Server ready, "boyer_ThinkCentre_M92p_akf" 489a494a-611a-43b7-b2b9-ace685d8046d
+2017-05-21T13:19:18.306720421 1.514240s info: Table de874ceb-67d8-4bf6-9f09-ec1377356826: Starting a new Raft election for term 3.
+2017-05-21T13:19:18.365476761 1.572996s info: Table de874ceb-67d8-4bf6-9f09-ec1377356826: This server is Raft leader for term 3. Latest log index is 6.
+2017-05-21T13:19:18.373676313 1.581196s info: Table eeee06a9-7f1e-4f71-981f-b2b74c751130: Starting a new Raft election for term 3.
+2017-05-21T13:19:18.496295034 1.703814s info: Table eeee06a9-7f1e-4f71-981f-b2b74c751130: This server is Raft leader for term 3. Latest log index is 6.
+2017-05-21T13:55:23.904837512 2167.112357s info: Table a2b1822f-5f5a-4eaa-bcbf-a256975bf9b3: Starting a new Raft election for term 1.
+2017-05-21T13:55:23.905033200 2167.112552s info: Table a2b1822f-5f5a-4eaa-bcbf-a256975bf9b3: Added replica on this server.
+2017-05-21T13:55:23.989342823 2167.196862s info: Table a2b1822f-5f5a-4eaa-bcbf-a256975bf9b3: This server is Raft leader for term 1. Latest log index is 0.
+2017-05-21T13:57:54.154494945 2317.362014s notice: Server got SIGTERM from pid 13734, uid 0; shutting down...
+2017-05-21T13:57:54.154684454 2317.362204s notice: Shutting down client connections...
+2017-05-21T13:57:54.154981118 2317.362500s notice: All client connections closed.
+2017-05-21T13:57:54.155027060 2317.362546s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-05-22T19:40:23.594349326 0.125479s notice: Running rethinkdb 2.3.5~0trusty (GCC 4.8.2)...
+2017-05-22T19:40:23.648178434 0.179307s notice: Running on Linux 3.19.0-25-generic x86_64
+2017-05-22T19:40:23.648269994 0.179396s notice: Loading data from directory /home/boyer/Bureau/events/rethinkdb_data
+2017-05-22T19:40:23.928900816 0.460029s info: Automatically using cache size of 2070 MB
+2017-05-22T19:40:23.929697986 0.460824s notice: Listening for intracluster connections on port 29015
+2017-05-22T19:40:25.701732839 2.232859s notice: Listening for client driver connections on port 28015
+2017-05-22T19:40:25.702056460 2.233183s notice: Listening for administrative HTTP connections on port 8080
+2017-05-22T19:40:25.702059892 2.233186s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-22T19:40:25.702146534 2.233273s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-22T19:40:25.702149743 2.233276s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-22T19:40:25.702153303 2.233279s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-05-22T19:40:25.702155755 2.233282s notice: Server ready, "boyer_ThinkCentre_M92p_akf" 489a494a-611a-43b7-b2b9-ace685d8046d
+2017-05-22T19:40:25.760479060 2.291606s info: Table a2b1822f-5f5a-4eaa-bcbf-a256975bf9b3: Starting a new Raft election for term 2.
+2017-05-22T19:40:26.001798287 2.532925s info: Table de874ceb-67d8-4bf6-9f09-ec1377356826: Starting a new Raft election for term 4.
+2017-05-22T19:40:26.073393429 2.604520s info: Table a2b1822f-5f5a-4eaa-bcbf-a256975bf9b3: This server is Raft leader for term 2. Latest log index is 2.
+2017-05-22T19:40:26.073455809 2.604582s info: Table de874ceb-67d8-4bf6-9f09-ec1377356826: This server is Raft leader for term 4. Latest log index is 9.
+2017-05-22T19:40:27.379372957 3.910499s info: Table eeee06a9-7f1e-4f71-981f-b2b74c751130: Starting a new Raft election for term 4.
+2017-05-22T19:40:27.473293746 4.004420s info: Table eeee06a9-7f1e-4f71-981f-b2b74c751130: This server is Raft leader for term 4. Latest log index is 9.
+2017-05-22T20:02:41.118364274 1337.649491s notice: Server got SIGTERM from pid 10958, uid 0; shutting down...
+2017-05-22T20:02:41.118541501 1337.649668s notice: Shutting down client connections...
+2017-05-22T20:02:41.119608032 1337.650735s notice: All client connections closed.
+2017-05-24T07:28:46.711360462 0.325226s notice: Running rethinkdb 2.3.5~0trusty (GCC 4.8.2)...
+2017-05-24T07:28:46.765482140 0.379347s notice: Running on Linux 3.19.0-25-generic x86_64
+2017-05-24T07:28:46.765570791 0.379434s notice: Loading data from directory /home/boyer/Bureau/events/rethinkdb_data
+2017-05-24T07:28:47.027395090 0.641260s info: Automatically using cache size of 2110 MB
+2017-05-24T07:28:47.037791724 0.651655s notice: Listening for intracluster connections on port 29015
+2017-05-24T07:28:47.319768677 0.933632s notice: Listening for client driver connections on port 28015
+2017-05-24T07:28:47.319924607 0.933787s notice: Listening for administrative HTTP connections on port 8080
+2017-05-24T07:28:47.319926655 0.933789s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-24T07:28:47.319928393 0.933791s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-24T07:28:47.319929861 0.933792s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-05-24T07:28:47.319931666 0.933794s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-05-24T07:28:47.319933189 0.933796s notice: Server ready, "boyer_ThinkCentre_M92p_akf" 489a494a-611a-43b7-b2b9-ace685d8046d
+2017-05-24T07:28:48.332301197 1.946164s info: Table de874ceb-67d8-4bf6-9f09-ec1377356826: Starting a new Raft election for term 5.
+2017-05-24T07:28:48.398778261 2.012641s info: Table de874ceb-67d8-4bf6-9f09-ec1377356826: This server is Raft leader for term 5. Latest log index is 12.
+2017-05-24T07:28:48.557595120 2.171458s info: Table a2b1822f-5f5a-4eaa-bcbf-a256975bf9b3: Starting a new Raft election for term 3.
+2017-05-24T07:28:48.669501773 2.283365s info: Table a2b1822f-5f5a-4eaa-bcbf-a256975bf9b3: This server is Raft leader for term 3. Latest log index is 5.
+2017-05-24T07:28:49.115526096 2.729389s info: Table eeee06a9-7f1e-4f71-981f-b2b74c751130: Starting a new Raft election for term 5.
+2017-05-24T07:28:49.295797125 2.909660s info: Table eeee06a9-7f1e-4f71-981f-b2b74c751130: This server is Raft leader for term 5. Latest log index is 12.
